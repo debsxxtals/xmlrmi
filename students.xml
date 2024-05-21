@@ -1,0 +1,39 @@
+<students>
+    <student>
+        <studentID>221-10001</studentID>
+        <name>John Doe</name>
+        <age>25</age>
+        <address>New York City</address>
+        <contactNumber>1234567890</contactNumber>
+    </student>
+    <student>
+        <studentID>221-10002</studentID>
+        <name>Jane Smith</name>
+        <age>22</age>
+        <address>Los Angeles</address>
+        <contactNumber>9876543210</contactNumber> 
+    </student>
+    <student>
+    <studentID>221-10003</studentID>
+    <name>Michael Johnson</name>
+    <age>24</age>
+    <address>Chicago</address>
+    <contactNumber>5551234567</contactNumber>
+</student>
+<student>
+    <studentID>221-10004</studentID>
+    <name>Emily Brown</name>
+    <age>23</age>
+    <address>Houston</address>
+    <contactNumber>4449876543</contactNumber>
+</student>
+<student>
+    <studentID>221-10005</studentID>
+    <name>David Garcia</name>
+    <age>26</age>
+    <address>Miami</address>
+    <contactNumber>3337890123</contactNumber>
+</student>
+
+
+</students>

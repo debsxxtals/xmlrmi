@@ -1,0 +1,33 @@
+<courses>
+    <course>
+        <courseID>CSC - 101</courseID>
+        <studentID>221-10005</studentID>
+        <courseTitle>Computer Science</courseTitle>
+        <courseDescription>Introduction to Programming</courseDescription>
+    </course>
+    <course>
+        <courseID>ITE - 102</courseID>
+        <studentID>221-10003</studentID>
+        <courseTitle>Data Structures and Algorithms</courseTitle>
+        <courseDescription>Advanced topics in computer science</courseDescription>
+    </course>
+    <course>
+        <courseID>ITE - 101</courseID>
+        <studentID>221-10005</studentID>
+        <courseTitle>Database Management Systems</courseTitle>
+        <courseDescription>Introduction to database concepts and SQL</courseDescription>
+    </course>
+    <course>
+        <courseID>ITE - 111</courseID>
+        <studentID>221-10002</studentID>
+        <courseTitle>Web Development</courseTitle>
+        <courseDescription>Building dynamic websites with HTML, CSS, and JavaScript</courseDescription>
+    </course>
+    <course>
+        <courseID>IT - 112</courseID>
+        <studentID>221-10001</studentID>
+        <courseTitle>Machine Learning</courseTitle>
+        <courseDescription>Advanced course in machine learning algorithms</courseDescription>
+    </course>
+    
+</courses>
